@@ -18,4 +18,6 @@ TECHNOLOGIES USED:
  
  _ Basic-Auth (most basic with pop-up)
  
+ _ ANT MATCHERS patterns
+ 
  _ JWT
