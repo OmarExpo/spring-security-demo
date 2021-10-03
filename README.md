@@ -20,4 +20,6 @@ TECHNOLOGIES USED:
  
  _ ANT MATCHERS patterns
  
+ _ BCrypt
+ 
  _ JWT
